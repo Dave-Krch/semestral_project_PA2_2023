@@ -1,2 +1,15 @@
-# semestral_project_PA2_2023
-Simple builder-strategy game i made as my semestral project for BI-PA2 class at FIT-CTU.
+/**
+ * @mainpage krchdavi
+ *
+ * This semestral projects implements simple strategy game engine.
+ *
+ * Players can play with each other, against ai, or  watch ai play against ai.
+ *
+ * Engine implements 3 building types and 5 action types.
+ *
+ * Menus are simple to understand, each round you can build or take actions that you can afford.
+ *
+ *
+ *
+ * 
+ */
