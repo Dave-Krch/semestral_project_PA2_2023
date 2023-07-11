@@ -70,7 +70,7 @@ std::string CPlayerInputHandler::saveFilesMenu(const std::string & save_dir) {
 
     while(true) {
         std::string input;
-        std::getline(std::cin, input);w
+        std::getline(std::cin, input);
 
         if(std::cin.eof()) {
             throw std::runtime_error("End of file reached!");
